@@ -1,5 +1,5 @@
 ### Olá !! Prazer me chamo Raul Carvalho 
-Estudande De Analise e Desenvolvimento de Sistemas
+Estudante De Analise e Desenvolvimento de Sistemas
 
 <div align="center">
   <a href="https://github.com/RaulOff">
