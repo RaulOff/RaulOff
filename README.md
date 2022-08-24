@@ -1,4 +1,4 @@
-### Opa me chamo Raul!! Sou estudante de Analise e Desenvolvimento de Sistemas
+### Olá me chamo Raul!! Sou estudante de Analise e Desenvolvimento de Sistemas
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
