@@ -3,7 +3,7 @@ Estudande De Analise e Desenvolvimento de Sistemas
 
 <div align="center">
   <a href="https://github.com/RaulOff">
-  <img height="135em" src="https://github-readme-stats.vercel.app/api?username=RaulOff&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=RaulOff&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaulOff&layout=compact&langs_count=7&theme=midnight-purple"/>
   <img align="right" alt="RaulOff" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1012081708406935595/1012084394510532719/download20220803152604.png?width=676&height=676">
 </div>
