@@ -13,7 +13,9 @@
   </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.discordapp.com/attachments/867916269167472721/1012066022091657216/1243a8ed6b9e349ce1e85a415f23df9f.gif">
 </div>
+
 
 
 ####
