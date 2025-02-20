@@ -1,5 +1,6 @@
-### Olá !! Prazer me chamo Raul Carvalho 
-Estudante De Analise e Desenvolvimento de Sistemas
+### Hello !! Pleasure, my name is Raul Carvalho
+ 
+Analise e Desenvolvimento de Sistemas / Software Enginner
 
 <div align="center">
   <a href="https://github.com/RaulOff">
